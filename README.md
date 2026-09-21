@@ -1,0 +1,1 @@
+# syft-grype-script
